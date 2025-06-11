@@ -14,36 +14,28 @@
 - Certified First Aider – St. John Ambulance Kenya
 - STEMROBO Robotics Training – 1 Week
 
-### 💼 Experience
+## 💼 Experience
 
-#### 👩‍🏫 STEM & Marketing Associate – KyriosLearn *(Apr 2025 – Present)*
-- Teach children robotics and coding using LEGO kits, Scratch, ESP32 and PictoBlox.
-- Develop lesson plans and facilitate hands-on learning with motors, sensors and lights.
-- Supervised robotics competitions and guided students through final project presentations.
-- Created and managed digital content for social media campaigns and school outreach.
-- Promoted the program to private and international schools, increasing enrollment.
+### 1. [Kyrios Learn – STEM & Marketing Associate](experience.md) *(Apr 2025 – Present)*  
+Teaching robotics & coding, marketing outreach and supervising STEM activities.
 
-#### 🖥️ IT Attache' – State Dept. for Shipping & Maritime Affairs *(May – July 2024)*
-- Provided desktop support and basic troubleshooting for software and network issues.
-- Assisted in configuring and deploying IT tools and systems for office staff.
-- Created technical documentation for the financial year 2024/2025.
+### 2. [State Department for Shipping & Maritime Affairs – IT Attache'](experience.md) *(May – July 2024)*  
+User support, network troubleshooting and documentation during internship.
 
-#### 🔒 Cybersecurity Volunteer – MenuFlame *(Feb 2025 – Present)*
-- Documented secure practices for Firebase, GitHub and web app development.
-- Reviewed the app for data protection compliance under the Kenyan Data Protection Act and GDPR.
-- Contributed to writing internal security guides for the app developers.
-- Performed basic vulnerability checks and reported findings to supervisors.
+### 3. [MenuFlame – Cybersecurity Volunteer](experience.md) *(Feb 2025 – Present)*  
+Created security guides and compliance documentation.
 
-#### ⛑️ Volunteer – St. John Ambulance *(Jan 2023 – Present)*
-- Delivered first aid and emergency support at public events.
-- Promoted to Corporal for leadership in managing personnel and onboarding new members.
-- Managed team rosters, led briefings and assisted in division-level finances.
+### 4. [St. John Ambulance – Volunteer Corporal](experience.md) *(2023 – Present)*  
+Provided first aid, onboarded members, led meetings, and managed finances.
 
 
-### 🧠 Skills
+
+
+## 🧠 Skills
 - **Languages/Tools:** Python, SQL, PHP, JavaScript, C++, Firebase, Burp Suite  
-- **Cybersecurity:** Data Protection, Secure Development, SQL Injection Basics  
-- **Soft Skills:** Teamwork, Problem-solving, Adaptability
+- **Cybersecurity:** Data Protection, Secure Development, SQL Injection Basics
+- **Cloud Security (SC-900)**: Zero Trust, Microsoft Entra ID, Compliance Manager, Encryption & Data Sovereignty
+- **Soft Skills:** Teamwork, Problem-solving, Adaptability,
 
 ---
 
@@ -71,17 +63,23 @@
 
 ## 🔐 Lab Challenges
 
-### 🔍 SQL Injection Labs – PortSwigger
-- **Problem:** Exploiting vulnerable SQL queries  
-- **Tools Used:** Burp Suite  
-- **Lessons:** Learned input manipulation and how to defend against SQLi.
+Click on each lab to view the detailed write-up:
 
-### 📁 GitHub & Firebase Security Documentation
-- **Problem:** Securing default configurations  
-- **Tools Used:** GitHub, Firebase  
-- **Lessons:** Wrote secure DevOps practices and ensured compliance for Firebase projects.
+- [SQL Injection Basics (PortSwigger)](labs/sql-injection.md)  
+  *Practiced identifying and exploiting insecure SQL queries using Burp Suite. Learned about input manipulation and database enumeration techniques.*
 
----
+- [Firebase Security Guide](labs/firebase-security.md)  
+  *Documented secure development practices in Firebase, including rule enforcement, App Check, and API key management.*
+
+- [GitHub Hardening and Documentation](labs/github-security.md)  
+  *Created a security checklist for GitHub projects. Focused on secrets management, branch protection, and repository settings.*
+
+- [SC-900 Identity & Compliance Labs](labs/sc900-labs.md)  
+  *Hands-on experience with Microsoft Entra ID, Conditional Access, Multi-Factor Authentication, and understanding identity security principles.*
+
+- [AZ Labs – Azure Security & Networking](labs/az-labs.md)  
+  *Configured virtual networks, NSGs, firewalls, and Azure SQL with encryption. Gained experience with Zero Trust architecture in Azure.*
+
 
 ## 📞 Contact
 
