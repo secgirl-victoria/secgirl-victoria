@@ -43,14 +43,11 @@ Provided first aid, onboarded members, led meetings, and managed finances.
 
 Here are some of the projects I’ve worked on. Click a project to view more details:
 
-- [🤖 Keystudio 4WD Robot – Obstacle Avoidance](projects/keystudio-obstacle.md)  
+- [🤖 Keystudio 4WD Robot – Obstacle Avoidance](projects/obstacle.md)  
   A robot car programmed to detect and avoid obstacles using ultrasonic sensors.
 
-- [🛣️ Keystudio 4WD Robot – Line Following](projects/keystudio-line-following.md)  
+- [🛣️ Keystudio 4WD Robot – Line Following](projects/line-following.md)  
   A robot car that follows a black line path using infrared sensors.
-
-- [🗑️ Automatic Trash Bin](projects/auto-trash-bin.md)  
-  A smart bin that opens automatically when it senses an object nearby.
 
 - [📅 Event Management System](projects/event-management.md)  
   A PHP-based system to register and manage events and attendees.
@@ -58,7 +55,7 @@ Here are some of the projects I’ve worked on. Click a project to view more det
 - [⏰ Timetable Automation System](projects/timetable-automation.md)  
   A tool that auto-generates school timetables without clashes.
 
-- [📚 Kyrios Learn Robotics Projects](projects/kyrios-robotics.md)  
+- [📚 Kyrios Learn Robotics Projects](projects/robotics.md)  
   Guided children in building LEGO-based robotics projects using Scratch and ESP32.
 
 
