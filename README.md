@@ -39,27 +39,28 @@ Provided first aid, onboarded members, led meetings, and managed finances.
 
 ---
 
-## 🚀 Projects
+## 📁 Projects
 
-### 🤖 Obstacle-Avoiding Keystudio 4WD Robot
-- Designed and programmed a robot using Arduino and ultrasonic sensors to detect and avoid obstacles.
+Here are some of the projects I’ve worked on. Click a project to view more details:
 
-### ⚫ Line-Following Robot
-- Built a robot using IR sensors to track and follow a black path autonomously.
+- [🤖 Keystudio 4WD Robot – Obstacle Avoidance](projects/keystudio-obstacle.md)  
+  A robot car programmed to detect and avoid obstacles using ultrasonic sensors.
 
-### 🗑️ Smart Automatic Trash Bin
-- Constructed a sensor-based trash bin that opens its lid automatically when it detects motion.
+- [🛣️ Keystudio 4WD Robot – Line Following](projects/keystudio-line-following.md)  
+  A robot car that follows a black line path using infrared sensors.
 
-### 📋 Event Management System
-- Web app built with PHP, SQL, and JavaScript for event registration and scheduling.
+- [🗑️ Automatic Trash Bin](projects/auto-trash-bin.md)  
+  A smart bin that opens automatically when it senses an object nearby.
 
-### 📅 Automatic Timetable Management System
-- PHP-based system that generates class timetables automatically using scheduling logic.
+- [📅 Event Management System](projects/event-management.md)  
+  A PHP-based system to register and manage events and attendees.
 
-### 🧠 Robotics Projects at Kyrios Learn
-- Helped children build and program LEGO cars, blinking lights, sirens, and more.
+- [⏰ Timetable Automation System](projects/timetable-automation.md)  
+  A tool that auto-generates school timetables without clashes.
 
----
+- [📚 Kyrios Learn Robotics Projects](projects/kyrios-robotics.md)  
+  Guided children in building LEGO-based robotics projects using Scratch and ESP32.
+
 
 ## 🔐 Lab Challenges
 
