@@ -42,13 +42,6 @@ Provided first aid, onboarded members, led meetings, and managed finances.
 ## 📁 Projects
 
 Here are some of the projects I’ve worked on. Click a project to view more details:
-
-- [🤖 Keystudio 4WD Robot – Obstacle Avoidance](projects/obstacle.md)  
-  A robot car programmed to detect and avoid obstacles using ultrasonic sensors.
-
-- [🛣️ Keystudio 4WD Robot – Line Following](projects/line-following.md)  
-  A robot car that follows a black line path using infrared sensors.
-
 - [📅 Event Management System](projects/event-management.md)  
   A PHP-based system to register and manage events and attendees.
 
